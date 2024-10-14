@@ -161,3 +161,5 @@ cython_debug/
 
 # Ignore all data that are in any of _data directory
 **/_data/**
+projects/data.opendatasoft.com/geonames-postal-code/allCountries/allCountries.txt
+projects/data.opendatasoft.com/geonames-postal-code/allCountries.zip
