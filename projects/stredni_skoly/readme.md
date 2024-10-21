@@ -14,6 +14,17 @@
 
 ### Ministerstvo skolstvi
 
+- [Vsechny mozne ciselniky ve skolstvi](http://stistko.uiv.cz/katalog/ciselnik.asp?vse=Zobrazit+v%9Aechny)
+- [AKSO  Obory vzdělání regionálního školství (KKOV)](http://stistko.uiv.cz/katalog/ciselnik11x.asp?idc=AKSO&ciselnik=Obory+vzd%ECl%E1n%ED+region%E1ln%EDho+%9Akolstv%ED+%28KKOV%29&aap=on&poznamka=)
+- [Rejstrik skol](https://rejstriky.msmt.cz/rejskol/)
+- [Kategorie Vzdelavani na npi](https://archiv-nuv.npi.cz/t/stredni-vzdelavani.html)
+- [Kategorie Vzdelavani na wiki](https://cs.wikipedia.org/wiki/Obor_vzd%C4%9Bl%C3%A1n%C3%AD)
+- [Rejstrik skol na data.gov (XML)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00022985%2F63989c80e16fc31c77e23ab529c76b52)
+
+### CSU
+
+- [Malý lexikon obcí České republiky - 2023](https://csu.gov.cz/produkty/maly-lexikon-obci-ceske-republiky-2023)
+
 ### Atlas Skolstvi
 
 - [Homepage -> stredni skoly](https://www.atlasskolstvi.cz/stredni-skoly)
