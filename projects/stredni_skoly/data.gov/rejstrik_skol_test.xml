@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExportDat>
+  <DatumVystupu>2024-10-18T21:30:01.2264685+02:00</DatumVystupu>
+  <PravniSubjekt>
+    <RedIzo>600000206</RedIzo>
+    <ICO>49625918</ICO>
+    <Reditelstvi>
+      <RedPlnyNazev>Mateřská škola sv. Voršily v Praze</RedPlnyNazev>
+      <RedZkracenyNazev>Mateřská škola sv. Voršily v Praze</RedZkracenyNazev>
+      <RedRUAINKod>21702101</RedRUAINKod>
+      <RedAdresa1>Ostrovní 139/11</RedAdresa1>
+      <RedAdresa2>Nové Město</RedAdresa2>
+      <RedAdresa3>110 00 Praha 1</RedAdresa3>
+      <PravniForma>641</PravniForma>
+      <DruhZrizovatele>6</DruhZrizovatele>
+      <Okres>CZ0111</Okres>
+      <ORP>CZ01101</ORP>
+      <Email1 />
+      <Email2 />
+      <DobaZrizeniSubjektu>Neurčitá</DobaZrizeniSubjektu>
+      <Reditel>
+        <ReditelJmeno>Anna Luňáčková</ReditelJmeno>
+        <ReditelJeStatutar>true</ReditelJeStatutar>
+        <ReditelAdresa1>Volkova 1126/6</ReditelAdresa1>
+        <ReditelAdresa2>Černý Most</ReditelAdresa2>
+        <ReditelAdresa3>198 00 Praha 9</ReditelAdresa3>
+      </Reditel>
+      <StatutarniOrgany>
+        <StatutarniOrgan>
+          <StatutarJmeno>Anna Luňáčková</StatutarJmeno>
+          <StatutarAdresa1>Volkova 1126/6</StatutarAdresa1>
+          <StatutarAdresa2>Černý Most</StatutarAdresa2>
+          <StatutarAdresa3>198 00 Praha 9</StatutarAdresa3>
+        </StatutarniOrgan>
+      </StatutarniOrgany>
+      <Zrizovatele>
+        <Zrizovatel>
+          <ZrizOsoba>P</ZrizOsoba>
+          <ZrizPravniForma>241</ZrizPravniForma>
+          <ZrizICO>00408263</ZrizICO>
+          <ZrizNazev>Sestry voršilky Římské unie</ZrizNazev>
+          <ZrizAdresa1>Ostrovní 139/11</ZrizAdresa1>
+          <ZrizAdresa2>Nové Město</ZrizAdresa2>
+          <ZrizAdresa3>110 00 Praha 1</ZrizAdresa3>
+          <ZrizEmail1 />
+        </Zrizovatel>
+      </Zrizovatele>
+    </Reditelstvi>
+    <SkolyZarizeni>
+      <SkolaZarizeni>
+        <IZO>049625918</IZO>
+        <SkolaPlnyNazev>Mateřská škola</SkolaPlnyNazev>
+        <SkolaDruhTyp>A00</SkolaDruhTyp>
+        <SkolaKapacita>54</SkolaKapacita>
+        <SkolaKapacitaJednotka>dítě</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2005-01-01T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>1996-05-16T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>049625918</IDMista>
+            <MistoDruhTyp>Mateřská škola</MistoDruhTyp>
+            <MistoRUAINKod>21702101</MistoRUAINKod>
+            <MistoAdresa1>Ostrovní 139/11</MistoAdresa1>
+            <MistoAdresa2>Nové Město</MistoAdresa2>
+            <MistoAdresa3>110 00 Praha 1</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelani />
+      </SkolaZarizeni>
+      <SkolaZarizeni>
+        <IZO>102413096</IZO>
+        <SkolaPlnyNazev>Školní jídelna</SkolaPlnyNazev>
+        <SkolaDruhTyp>L11</SkolaDruhTyp>
+        <SkolaKapacita>90</SkolaKapacita>
+        <SkolaKapacitaJednotka>stravovaný</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2005-01-01T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>1996-05-16T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>102413096</IDMista>
+            <MistoDruhTyp>Školní jídelna</MistoDruhTyp>
+            <MistoRUAINKod>21702101</MistoRUAINKod>
+            <MistoAdresa1>Ostrovní 139/11</MistoAdresa1>
+            <MistoAdresa2>Nové Město</MistoAdresa2>
+            <MistoAdresa3>110 00 Praha 1</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelani />
+      </SkolaZarizeni>
+    </SkolyZarizeni>
+  </PravniSubjekt>
+</ExportDat>

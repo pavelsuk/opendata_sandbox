@@ -15,7 +15,8 @@
 ### Ministerstvo skolstvi
 
 - [Vsechny mozne ciselniky ve skolstvi](http://stistko.uiv.cz/katalog/ciselnik.asp?vse=Zobrazit+v%9Aechny)
-- [AKSO  Obory vzdělání regionálního školství (KKOV)](http://stistko.uiv.cz/katalog/ciselnik11x.asp?idc=AKSO&ciselnik=Obory+vzd%ECl%E1n%ED+region%E1ln%EDho+%9Akolstv%ED+%28KKOV%29&aap=on&poznamka=)
+  - [AKSO  Obory vzdělání regionálního školství (KKOV)](http://stistko.uiv.cz/katalog/ciselnik11x.asp?idc=AKSO&ciselnik=Obory+vzd%ECl%E1n%ED+region%E1ln%EDho+%9Akolstv%ED+%28KKOV%29&aap=on&poznamka=)
+  - [AKDT  Druhy a typy škol a školských zařízení (nové)](http://stistko.uiv.cz/katalog/ciselnik11x.asp?idc=AKDT&ciselnik=Druhy+a+typy+%9Akol+a+%9Akolsk%FDch+za%F8%EDzen%ED+%28nov%E9%29&aap=on&poznamka=)
 - [Rejstrik skol](https://rejstriky.msmt.cz/rejskol/)
 - [Kategorie Vzdelavani na npi](https://archiv-nuv.npi.cz/t/stredni-vzdelavani.html)
 - [Kategorie Vzdelavani na wiki](https://cs.wikipedia.org/wiki/Obor_vzd%C4%9Bl%C3%A1n%C3%AD)
@@ -43,6 +44,12 @@
      ```
      - Musi se pagovat pres `p=2`
 
+### Verejny dalkovy pristup k datum RUIAN
+
+- [Adresy v CR (pozor, opravdu velky soubor)](https://vdp.cuzk.cz/vdp/ruian/vymennyformat?crKopie=on&casovyRozsah=U&svyAdresy=on&svyber=svyAdresy&search=)
+- [Adresní místa RÚIAN ve formátu CSV](https://nahlizenidokn.cuzk.cz/StahniAdresniMistaRUIAN.aspx)
+  - [Popis](https://vdp.cuzk.cz/vymenny_format/csv/hierarchie-prvku-ruian-popis.pdf)
+  - 
 
 ### Ceska Inspekce
 
