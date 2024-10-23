@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ExportDat>
+  <DatumVystupu>2024-10-18T21:30:01.2264685+02:00</DatumVystupu>
+  <PravniSubjekt>
+    <RedIzo>600030083</RedIzo>
+    <ICO>00401803</ICO>
+    <Reditelstvi>
+      <RedPlnyNazev>Lužánky - středisko volného času Brno, příspěvková organizace</RedPlnyNazev>
+      <RedZkracenyNazev>Lužánky - středisko volného času</RedZkracenyNazev>
+      <RedRUAINKod>19196342</RedRUAINKod>
+      <RedAdresa1>Lidická 1880/50</RedAdresa1>
+      <RedAdresa2>Černá Pole</RedAdresa2>
+      <RedAdresa3>602 00 Brno</RedAdresa3>
+      <PravniForma>331</PravniForma>
+      <DruhZrizovatele>7</DruhZrizovatele>
+      <Okres>CZ0622</Okres>
+      <ORP>CZ06203</ORP>
+      <Email1 />
+      <Email2 />
+      <DobaZrizeniSubjektu>Neurčitá</DobaZrizeniSubjektu>
+      <Reditel>
+        <ReditelJmeno>Mgr. Jan Ondroušek</ReditelJmeno>
+        <ReditelJeStatutar>true</ReditelJeStatutar>
+        <ReditelAdresa1>Proškovo náměstí 53/2</ReditelAdresa1>
+        <ReditelAdresa2>Maloměřice</ReditelAdresa2>
+        <ReditelAdresa3>614 00 Brno</ReditelAdresa3>
+      </Reditel>
+      <StatutarniOrgany>
+        <StatutarniOrgan>
+          <StatutarJmeno>Mgr. Jan Ondroušek</StatutarJmeno>
+          <StatutarAdresa1>Proškovo náměstí 53/2</StatutarAdresa1>
+          <StatutarAdresa2>Maloměřice</StatutarAdresa2>
+          <StatutarAdresa3>614 00 Brno</StatutarAdresa3>
+        </StatutarniOrgan>
+      </StatutarniOrgany>
+      <Zrizovatele>
+        <Zrizovatel>
+          <ZrizOsoba>P</ZrizOsoba>
+          <ZrizPravniForma>266</ZrizPravniForma>
+          <ZrizICO>70888337</ZrizICO>
+          <ZrizNazev>Jihomoravský kraj</ZrizNazev>
+          <ZrizAdresa1>Žerotínovo náměstí 449/3</ZrizAdresa1>
+          <ZrizAdresa2>601 82 Brno</ZrizAdresa2>
+          <ZrizAdresa3 />
+          <ZrizEmail1 />
+        </Zrizovatel>
+      </Zrizovatele>
+    </Reditelstvi>
+    <SkolyZarizeni>
+      <SkolaZarizeni>
+        <IZO>181038064</IZO>
+        <SkolaPlnyNazev>Mateřská škola</SkolaPlnyNazev>
+        <SkolaDruhTyp>A00</SkolaDruhTyp>
+        <SkolaKapacita>106</SkolaKapacita>
+        <SkolaKapacitaJednotka>dítě</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2012-08-02T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>2012-09-01T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181038064</IDMista>
+            <MistoDruhTyp>Mateřská škola</MistoDruhTyp>
+            <MistoRUAINKod>25089188</MistoRUAINKod>
+            <MistoAdresa1>Žerotínovo náměstí 514/1</MistoAdresa1>
+            <MistoAdresa2>Veveří</MistoAdresa2>
+            <MistoAdresa3>602 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181080991</IDMista>
+            <MistoDruhTyp>Mateřská škola</MistoDruhTyp>
+            <MistoRUAINKod>19173342</MistoRUAINKod>
+            <MistoAdresa1>Kounicova 684/16</MistoAdresa1>
+            <MistoAdresa2>Veveří</MistoAdresa2>
+            <MistoAdresa3>602 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelani />
+      </SkolaZarizeni>
+      <SkolaZarizeni>
+        <IZO>000401803</IZO>
+        <SkolaPlnyNazev>Středisko volného času</SkolaPlnyNazev>
+        <SkolaDruhTyp>G11</SkolaDruhTyp>
+        <SkolaKapacita>neuvádí se</SkolaKapacita>
+        <SkolaKapacitaJednotka>žák</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2005-01-01T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>1996-05-24T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>000401803</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19196342</MistoRUAINKod>
+            <MistoAdresa1>Lidická 1880/50</MistoAdresa1>
+            <MistoAdresa2>Černá Pole</MistoAdresa2>
+            <MistoAdresa3>602 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171100476</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19266481</MistoRUAINKod>
+            <MistoAdresa1>Milénova 770/13</MistoAdresa1>
+            <MistoAdresa2>Lesná</MistoAdresa2>
+            <MistoAdresa3>638 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171100484</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19211490</MistoRUAINKod>
+            <MistoAdresa1>Lány 85/3</MistoAdresa1>
+            <MistoAdresa2>Bohunice</MistoAdresa2>
+            <MistoAdresa3>625 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171100433</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19565305</MistoRUAINKod>
+            <MistoAdresa1>ulice Kosmonautů 633/4</MistoAdresa1>
+            <MistoAdresa2>Starý Lískovec</MistoAdresa2>
+            <MistoAdresa3>625 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171100441</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19485085</MistoRUAINKod>
+            <MistoAdresa1>Oblá 469/51c</MistoAdresa1>
+            <MistoAdresa2>Nový Lískovec</MistoAdresa2>
+            <MistoAdresa3>634 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171100450</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19385056</MistoRUAINKod>
+            <MistoAdresa1>Stamicova 572/7</MistoAdresa1>
+            <MistoAdresa2>Kohoutovice</MistoAdresa2>
+            <MistoAdresa3>623 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181001985</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>26703289</MistoRUAINKod>
+            <MistoAdresa1>Švermova 757/19</MistoAdresa1>
+            <MistoAdresa2>Bohunice</MistoAdresa2>
+            <MistoAdresa3>625 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181002001</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19573804</MistoRUAINKod>
+            <MistoAdresa1>Bzenecká 4226/23</MistoAdresa1>
+            <MistoAdresa2>Židenice</MistoAdresa2>
+            <MistoAdresa3>628 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>110004418</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>18033270</MistoRUAINKod>
+            <MistoAdresa1>č.p. 253</MistoAdresa1>
+            <MistoAdresa2>561 63 Nekoř</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181022923</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19385099</MistoRUAINKod>
+            <MistoAdresa1>Pavlovská 576/16</MistoAdresa1>
+            <MistoAdresa2>Kohoutovice</MistoAdresa2>
+            <MistoAdresa3>623 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181022931</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19111339</MistoRUAINKod>
+            <MistoAdresa1>Křídlovická 904/30b</MistoAdresa1>
+            <MistoAdresa2>Staré Brno</MistoAdresa2>
+            <MistoAdresa3>603 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181022940</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19510969</MistoRUAINKod>
+            <MistoAdresa1>Horácké náměstí 1742/12</MistoAdresa1>
+            <MistoAdresa2>Řečkovice</MistoAdresa2>
+            <MistoAdresa3>621 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181025434</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19216530</MistoRUAINKod>
+            <MistoAdresa1>Arménská 573/21</MistoAdresa1>
+            <MistoAdresa2>Bohunice</MistoAdresa2>
+            <MistoAdresa3>625 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181025442</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19485093</MistoRUAINKod>
+            <MistoAdresa1>Koniklecová 470/5</MistoAdresa1>
+            <MistoAdresa2>Nový Lískovec</MistoAdresa2>
+            <MistoAdresa3>634 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181025451</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24916692</MistoRUAINKod>
+            <MistoAdresa1>Žižkova 600</MistoAdresa1>
+            <MistoAdresa2>664 01 Bílovice nad Svitavou</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181140136</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>19603061</MistoRUAINKod>
+            <MistoAdresa1>Plovdivská 2560/7</MistoAdresa1>
+            <MistoAdresa2>Žabovřesky</MistoAdresa2>
+            <MistoAdresa3>616 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>108010040</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24191591</MistoRUAINKod>
+            <MistoAdresa1>Jungmannova 1084/1</MistoAdresa1>
+            <MistoAdresa2>664 34 Kuřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171101839</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24184071</MistoRUAINKod>
+            <MistoAdresa1>Legionářská 338/51</MistoAdresa1>
+            <MistoAdresa2>664 34 Kuřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171103416</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24188883</MistoRUAINKod>
+            <MistoAdresa1>Jungmannova 813/5</MistoAdresa1>
+            <MistoAdresa2>664 34 Kuřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171103424</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24193313</MistoRUAINKod>
+            <MistoAdresa1>Tyršova 1255/56</MistoAdresa1>
+            <MistoAdresa2>664 34 Kuřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171103432</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24185825</MistoRUAINKod>
+            <MistoAdresa1>Komenského 511/40</MistoAdresa1>
+            <MistoAdresa2>664 34 Kuřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>171103441</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24630063</MistoRUAINKod>
+            <MistoAdresa1>Kuřimská 99</MistoAdresa1>
+            <MistoAdresa2>664 34 Moravské Knínice</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181043149</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>24953491</MistoRUAINKod>
+            <MistoAdresa1>Školní 167</MistoAdresa1>
+            <MistoAdresa2>664 24 Drásov</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181102013</IDMista>
+            <MistoDruhTyp>Dům dětí a mládeže</MistoDruhTyp>
+            <MistoRUAINKod>78757428</MistoRUAINKod>
+            <MistoAdresa1>Sportovní 2032/5</MistoAdresa1>
+            <MistoAdresa2>664 34 Kuřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelani />
+      </SkolaZarizeni>
+      <SkolaZarizeni>
+        <IZO>181038099</IZO>
+        <SkolaPlnyNazev>Školní jídelna - výdejna</SkolaPlnyNazev>
+        <SkolaDruhTyp>L13</SkolaDruhTyp>
+        <SkolaKapacita>106</SkolaKapacita>
+        <SkolaKapacitaJednotka>stravovaný</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2012-08-02T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>2012-09-01T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181038099</IDMista>
+            <MistoDruhTyp>Školní jídelna - výdejna</MistoDruhTyp>
+            <MistoRUAINKod>25089188</MistoRUAINKod>
+            <MistoAdresa1>Žerotínovo náměstí 514/1</MistoAdresa1>
+            <MistoAdresa2>Veveří</MistoAdresa2>
+            <MistoAdresa3>602 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181081008</IDMista>
+            <MistoDruhTyp>Školní jídelna - výdejna</MistoDruhTyp>
+            <MistoRUAINKod>19173342</MistoRUAINKod>
+            <MistoAdresa1>Kounicova 684/16</MistoAdresa1>
+            <MistoAdresa2>Veveří</MistoAdresa2>
+            <MistoAdresa3>602 00 Brno</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelani />
+      </SkolaZarizeni>
+    </SkolyZarizeni>
+  </PravniSubjekt>
+</ExportDat>

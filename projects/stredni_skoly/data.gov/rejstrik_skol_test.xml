@@ -91,4 +91,106 @@
       </SkolaZarizeni>
     </SkolyZarizeni>
   </PravniSubjekt>
+  <PravniSubjekt>
+    <RedIzo>691018421</RedIzo>
+    <ICO>21813434</ICO>
+    <Reditelstvi>
+      <RedPlnyNazev>Základní umělecká škola Kouřim, okres Kolín</RedPlnyNazev>
+      <RedZkracenyNazev>Základní umělecká škola</RedZkracenyNazev>
+      <RedRUAINKod>6065864</RedRUAINKod>
+      <RedAdresa1>Nové Město 180</RedAdresa1>
+      <RedAdresa2>281 61 Kouřim</RedAdresa2>
+      <RedAdresa3 />
+      <PravniForma>331</PravniForma>
+      <DruhZrizovatele>2</DruhZrizovatele>
+      <Okres>CZ0214</Okres>
+      <ORP>CZ02110</ORP>
+      <Email1 />
+      <Email2 />
+      <DobaZrizeniSubjektu>Neurčitá</DobaZrizeniSubjektu>
+      <Reditel>
+        <ReditelJmeno>Jana Krejčíková, DiS.</ReditelJmeno>
+        <ReditelJeStatutar>true</ReditelJeStatutar>
+        <ReditelAdresa1>28. října 2023/25</ReditelAdresa1>
+        <ReditelAdresa2>288 02 Nymburk</ReditelAdresa2>
+        <ReditelAdresa3 />
+      </Reditel>
+      <StatutarniOrgany>
+        <StatutarniOrgan>
+          <StatutarJmeno>Jana Krejčíková, DiS.</StatutarJmeno>
+          <StatutarAdresa1>28. října 2023/25</StatutarAdresa1>
+          <StatutarAdresa2>288 02 Nymburk</StatutarAdresa2>
+          <StatutarAdresa3 />
+        </StatutarniOrgan>
+      </StatutarniOrgany>
+      <Zrizovatele>
+        <Zrizovatel>
+          <ZrizOsoba>P</ZrizOsoba>
+          <ZrizPravniForma>261</ZrizPravniForma>
+          <ZrizICO>00235482</ZrizICO>
+          <ZrizNazev>Město Kouřim</ZrizNazev>
+          <ZrizAdresa1>Mírové náměstí 145</ZrizAdresa1>
+          <ZrizAdresa2>281 61 Kouřim</ZrizAdresa2>
+          <ZrizAdresa3 />
+          <ZrizEmail1 />
+        </Zrizovatel>
+      </Zrizovatele>
+    </Reditelstvi>
+    <SkolyZarizeni>
+      <SkolaZarizeni>
+        <IZO>110001290</IZO>
+        <SkolaPlnyNazev>Základní umělecká škola</SkolaPlnyNazev>
+        <SkolaDruhTyp>F10</SkolaDruhTyp>
+        <SkolaKapacita>200</SkolaKapacita>
+        <SkolaKapacitaJednotka>žák</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2005-01-01T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>1993-09-01T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>110001290</IDMista>
+            <MistoDruhTyp>Základní umělecká škola</MistoDruhTyp>
+            <MistoRUAINKod>6065864</MistoRUAINKod>
+            <MistoAdresa1>Nové Město 180</MistoAdresa1>
+            <MistoAdresa2>281 61 Kouřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>181061791</IDMista>
+            <MistoDruhTyp>Základní umělecká škola</MistoDruhTyp>
+            <MistoRUAINKod>6070108</MistoRUAINKod>
+            <MistoAdresa1>Československé armády 626</MistoAdresa1>
+            <MistoAdresa2>281 61 Kouřim</MistoAdresa2>
+            <MistoAdresa3 />
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelaniZUS>
+          <SkolaOborVzdelaniZUS>
+            <OborZUS>1Z</OborZUS>
+            <OborZUSNazev>hudební</OborZUSNazev>
+            <OborZUSKapacita>110</OborZUSKapacita>
+            <OborKapacitaZUSJednotka>žák</OborKapacitaZUSJednotka>
+          </SkolaOborVzdelaniZUS>
+          <SkolaOborVzdelaniZUS>
+            <OborZUS>2Z</OborZUS>
+            <OborZUSNazev>literárně-dramatický</OborZUSNazev>
+            <OborZUSKapacita>30</OborZUSKapacita>
+            <OborKapacitaZUSJednotka>žák</OborKapacitaZUSJednotka>
+          </SkolaOborVzdelaniZUS>
+          <SkolaOborVzdelaniZUS>
+            <OborZUS>3Z</OborZUS>
+            <OborZUSNazev>taneční</OborZUSNazev>
+            <OborZUSKapacita>25</OborZUSKapacita>
+            <OborKapacitaZUSJednotka>žák</OborKapacitaZUSJednotka>
+          </SkolaOborVzdelaniZUS>
+          <SkolaOborVzdelaniZUS>
+            <OborZUS>4Z</OborZUS>
+            <OborZUSNazev>výtvarný</OborZUSNazev>
+            <OborZUSKapacita>35</OborZUSKapacita>
+            <OborKapacitaZUSJednotka>žák</OborKapacitaZUSJednotka>
+          </SkolaOborVzdelaniZUS>
+        </SkolaOboryVzdelaniZUS>
+      </SkolaZarizeni>
+    </SkolyZarizeni>
+  </PravniSubjekt>
 </ExportDat>
