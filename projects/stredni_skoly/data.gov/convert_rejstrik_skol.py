@@ -44,14 +44,34 @@ def parse_element(el, tags:set):
         ret_lines.append( local_vals)
     return ret_lines
 
+def extract_tags(root, tags):
+    data = []
+
+    for child in root:
+        lines = parse_element(child, tags)
+        if lines:
+            for line in lines:
+                data.append(line)
+    return data
+
+def extract_tags_to_csv(root, tags, csv_path, csv_fname):
+    data = extract_tags(root, tags)
+    df = pd.DataFrame(data)
+    df.to_csv(csv_path + csv_fname, index_label='ROWID_TMP')
+
+def extract_data_to_csv(fpath, fname, tags, csv_path, csv_fname):
+    xml_data = open(fpath + fname, 'r', encoding='UTF-8').read()
+    root = ET.XML(xml_data)  # Parse XML
+    extract_tags_to_csv(root, tags, csv_path, csv_fname)
+
 def main():
-    fpath = 'Q:\dev\_projects\github\opendata_sandbox\projects\stredni_skoly\data.gov\\'
+    fpath = 'Q:\\dev\\_projects\\github\\opendata_sandbox\\projects\\stredni_skoly\\data.gov\\'
     # fname = 'rejstrik_skol_test.xml'
     # fname = 'rejstrik_skol_err.xml'
     fname = 'vrejcelk.xml'
+    csvpath = fpath + '_data\\'
+
     # xml_data = open('rejstrik_skol_test.xml', 'r', encoding='UTF-8').read()  # Read file vrejcelk.xml
-    xml_data = open(fpath + fname, 'r', encoding='UTF-8').read()
-    root = ET.XML(xml_data)  # Parse XML
 
     tags_all = {"RedIzo", "ICO",
             "RedZkracenyNazev", "RedRUAINKod", "RedAdresa1", "RedAdresa2", "RedAdresa3",
@@ -84,21 +104,22 @@ def main():
                     "MistoAdresa3"
     }
 
-    tags = tags_all
+    tags_obory = {
+                    "IZO",
+                    "SkolaDruhTyp",
+                    "SkolaKapacita",
+                    "SkolaKapacitaJednotka",
+                    "SkolaJazyk",
+                        "OborKod",
+                        "OborNazev",
+                        "FormaVzdelavani",
+                        "DelkaVzdelavani",
+                        "OborKapacita",
+                        "OborKapacitaJednotka",
+                        "OborDobihajici"
+    }
 
-
-    # loop_inside = {"SkolyZarizeni"}
-
-    data = []
-
-    for child in root:
-        lines = parse_element(child, tags)
-        if lines:
-            for line in lines:
-                data.append(line)
-
-
-    df = pd.DataFrame(data)
-    df.to_csv('rejstrik_out.csv', index_label='ROWID_TMP')
+    # extract_data_to_csv(fpath, fname, tags_all, csvpath, 'rejstrik_full.csv')
+    extract_data_to_csv(fpath, fname, tags_obory, csvpath, 'IZO_skola_obory.csv')
 
 main()

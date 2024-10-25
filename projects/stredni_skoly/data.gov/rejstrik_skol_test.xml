@@ -2,6 +2,86 @@
 <ExportDat>
   <DatumVystupu>2024-10-18T21:30:01.2264685+02:00</DatumVystupu>
   <PravniSubjekt>
+    <RedIzo>600004546</RedIzo>
+    <ICO>60446218</ICO>
+    <Reditelstvi>
+      <RedPlnyNazev>Gymnázium Jiřího Gutha-Jarkovského, Praha 1, Truhlářská 22</RedPlnyNazev>
+      <RedZkracenyNazev>Gymnázium J.G.Jarkovského</RedZkracenyNazev>
+      <RedRUAINKod>21709548</RedRUAINKod>
+      <RedAdresa1>Truhlářská 1120/22</RedAdresa1>
+      <RedAdresa2>Nové Město</RedAdresa2>
+      <RedAdresa3>110 00 Praha 1</RedAdresa3>
+      <PravniForma>331</PravniForma>
+      <DruhZrizovatele>7</DruhZrizovatele>
+      <Okres>CZ0111</Okres>
+      <ORP>CZ01101</ORP>
+      <Email1 />
+      <Email2 />
+      <DobaZrizeniSubjektu>Neurčitá</DobaZrizeniSubjektu>
+      <Reditel>
+        <ReditelJmeno>PhDr. Jitka Kendíková</ReditelJmeno>
+        <ReditelJeStatutar>true</ReditelJeStatutar>
+        <ReditelAdresa1>Pražského 604/22</ReditelAdresa1>
+        <ReditelAdresa2>Hlubočepy</ReditelAdresa2>
+        <ReditelAdresa3>152 00 Praha 5</ReditelAdresa3>
+      </Reditel>
+      <StatutarniOrgany>
+        <StatutarniOrgan>
+          <StatutarJmeno>PhDr. Jitka Kendíková</StatutarJmeno>
+          <StatutarAdresa1>Pražského 604/22</StatutarAdresa1>
+          <StatutarAdresa2>Hlubočepy</StatutarAdresa2>
+          <StatutarAdresa3>152 00 Praha 5</StatutarAdresa3>
+        </StatutarniOrgan>
+      </StatutarniOrgany>
+      <Zrizovatele>
+        <Zrizovatel>
+          <ZrizOsoba>P</ZrizOsoba>
+          <ZrizPravniForma>266</ZrizPravniForma>
+          <ZrizICO>00064581</ZrizICO>
+          <ZrizNazev>Hlavní město Praha</ZrizNazev>
+          <ZrizAdresa1>Mariánské náměstí 2/2</ZrizAdresa1>
+          <ZrizAdresa2>Staré Město</ZrizAdresa2>
+          <ZrizAdresa3>110 01 Praha 1</ZrizAdresa3>
+          <ZrizEmail1 />
+        </Zrizovatel>
+      </Zrizovatele>
+    </Reditelstvi>
+    <SkolyZarizeni>
+      <SkolaZarizeni>
+        <IZO>060446218</IZO>
+        <SkolaPlnyNazev>Střední škola</SkolaPlnyNazev>
+        <SkolaDruhTyp>C00</SkolaDruhTyp>
+        <SkolaKapacita>480</SkolaKapacita>
+        <SkolaKapacitaJednotka>žák</SkolaKapacitaJednotka>
+        <SkolaJazyk>český</SkolaJazyk>
+        <SkolaDatumZapisu>2005-01-01T00:00:00</SkolaDatumZapisu>
+        <SkolaDatumZahajeni>1996-05-16T00:00:00</SkolaDatumZahajeni>
+        <SkolaMistaVykonuCinnosti>
+          <SkolaMistoVykonuCinnosti>
+            <IDMista>060446218</IDMista>
+            <MistoDruhTyp>Gymnázium</MistoDruhTyp>
+            <MistoRUAINKod>21709548</MistoRUAINKod>
+            <MistoAdresa1>Truhlářská 1120/22</MistoAdresa1>
+            <MistoAdresa2>Nové Město</MistoAdresa2>
+            <MistoAdresa3>110 00 Praha 1</MistoAdresa3>
+          </SkolaMistoVykonuCinnosti>
+        </SkolaMistaVykonuCinnosti>
+        <SkolaOboryVzdelani>
+          <SkolaOborVzdelani>
+            <OborKod>7941K81</OborKod>
+            <OborNazev>Gymnázium</OborNazev>
+            <FormaVzdelavani>10</FormaVzdelavani>
+            <DelkaVzdelavani>80</DelkaVzdelavani>
+            <JazykOboru>10</JazykOboru>
+            <OborKapacita>480</OborKapacita>
+            <OborKapacitaJednotka>žák</OborKapacitaJednotka>
+            <OborDobihajici>false</OborDobihajici>
+          </SkolaOborVzdelani>
+        </SkolaOboryVzdelani>
+      </SkolaZarizeni>
+    </SkolyZarizeni>
+  </PravniSubjekt>
+  <PravniSubjekt>
     <RedIzo>600000206</RedIzo>
     <ICO>49625918</ICO>
     <Reditelstvi>
