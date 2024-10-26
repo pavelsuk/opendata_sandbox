@@ -20,7 +20,16 @@
 - [Rejstrik skol](https://rejstriky.msmt.cz/rejskol/)
 - [Kategorie Vzdelavani na npi](https://archiv-nuv.npi.cz/t/stredni-vzdelavani.html)
 - [Kategorie Vzdelavani na wiki](https://cs.wikipedia.org/wiki/Obor_vzd%C4%9Bl%C3%A1n%C3%AD)
+
+### Data.gov
 - [Rejstrik skol na data.gov (XML)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00022985%2F63989c80e16fc31c77e23ab529c76b52)
+- [Číselník ČSÚ: Číselník okresů (kód 109)](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2F0ca5c04dac648b5fb9fc0386091980dc)
+- [Struktura území České republiky](https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00025593%2F271b0fb7c2abb7f44e12ad57617821b2)
+  - Dostanu se z `obec_kod`, ktery je shodny s `Kód obce` z `*OB_500011_ADR.csv`, stahnuty z [RÚIAN](https://nahlizenidokn.cuzk.cz/StahniAdresniMistaRUIAN.aspx) na `"okres_text"`, `"kraj_text"` (vcetne jejich ruznych kodu)
+  - Tohle je asi nejuniverzalnejsi prevodni tabulka mezi ruznymi kody
+- (Klasifikace územních statistických jednotek NUTS)[https://data.gov.cz/datov%C3%A1-sada?iri=https%3A%2F%2Fdata.gov.cz%2Fzdroj%2Fdatov%C3%A9-sady%2F00006947%2F074d58909e515b4b817b899a218b946a]
+  - (Ke stazeni na)[https://monitor.statnipokladna.cz/data/xml/nuts.xml]
+  - Obsahuje vsechny kraje i okresy, ale neni kompatibilni s tim, co je z MSMT
 
 ### CSU
 
@@ -49,7 +58,9 @@
 - [Adresy v CR (pozor, opravdu velky soubor)](https://vdp.cuzk.cz/vdp/ruian/vymennyformat?crKopie=on&casovyRozsah=U&svyAdresy=on&svyber=svyAdresy&search=)
 - [Adresní místa RÚIAN ve formátu CSV](https://nahlizenidokn.cuzk.cz/StahniAdresniMistaRUIAN.aspx)
   - [Popis](https://vdp.cuzk.cz/vymenny_format/csv/hierarchie-prvku-ruian-popis.pdf)
-  - 
+- [Jdou stahnout z ATOMu](https://atom.cuzk.cz/)
+  - [Data RÚIAN o adresách poskytovaná pro stát ve formátu CSV (RUIAN-CSV-ADR-ST)](https://services.cuzk.cz/atom-index/RUIAN-CSV-ADR-ST/5513/)
+  - [Data RÚIAN o hierarchii prvků poskytovaná pro stát ve formátu CSV (RUIAN-CSV-HIE-ST)](https://services.cuzk.cz/atom-index/RUIAN-CSV-HIE-ST/NONE/)
 
 ### Ceska Inspekce
 
