@@ -163,6 +163,7 @@ cython_debug/
 **/_data/**
 projects/data.opendatasoft.com/geonames-postal-code/allCountries/allCountries.txt
 projects/data.opendatasoft.com/geonames-postal-code/allCountries.zip
+
 projects/cnb.cz/kurzy/calendar_with_ex_rates_long.csv
 projects/cnb.cz/kurzy/currencies.csv
 projects/cnb.cz/kurzy/ex_rates_long.csv
